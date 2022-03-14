@@ -1,6 +1,6 @@
 {
   "name": "@mariosenese/ciaomondo",
-  "version": "1.0.18",
+  "version": "1.0.21",
   "description": "First NPM package - Ciao Mondo",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/MarioSenese/CiaoMondo/issues"
   },
-  "homepage": "https://github.com/MarioSenese/CiaoMondo#readme"
+  "homepage": "https://github.com/MarioSenese/CiaoMondo#readme",
+  "dependencies": {
+    "@bamblehorse/tiny": "^2.0.0",
+    "@mariosenese/ciaomondo": "^1.0.19"
+  },
+  "devDependencies": {}
 }
