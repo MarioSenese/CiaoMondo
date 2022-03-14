@@ -1,7 +1,7 @@
 {
   "name": "@mariosenese/ciaomondo",
-  "version": "1.0.0",
-  "description": "First NPM package - Ciao mondo",
+  "version": "1.0.15",
+  "description": "First NPM package",
   "main": "public_html/index.js",
   "directories": {
     "test": "test"
@@ -14,8 +14,8 @@
     "url": "git+https://github.com/MarioSenese/CiaoMondo.git"
   },
   "keywords": [
-    "ciaomondo",
     "mariosenese",
+    "ciaomondo",
     "npm",
     "package"
   ],
@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/MarioSenese/CiaoMondo/issues"
   },
-  "homepage": "https://github.com/MarioSenese/CiaoMondo#readme"
+  "homepage": "https://github.com/MarioSenese/CiaoMondo#readme",
+  "dependencies": {
+    "@mariosenese/ciaomondo": "^1.0.13"
+  }
 }
