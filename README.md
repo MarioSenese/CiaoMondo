@@ -18,7 +18,7 @@ Call external script into <head></head>
 
 ```html
 <head>
-	<script type="module" src="index.js"></script>
+  <script type="module" src="index.js"></script>
 </head>
 ```
 In index.js file, insert the next code
