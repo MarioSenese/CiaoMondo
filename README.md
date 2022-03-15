@@ -16,7 +16,7 @@ $ npm install @mariosenese/ciaomondo
 
 Call external script into <head></head>
 
-```js
+```html
 <head>
 	<script type="module" src="index.js"></script>
 </head>
