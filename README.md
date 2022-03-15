@@ -14,20 +14,14 @@ $ npm install @mariosenese/ciaomondo
 
 ## Usage
 
-```
 Call external script into <head></head>
-```
 
 ```js
 <head>
 	<script type="module" src="index.js"></script>
 </head>
 ```
-
-
-```
 In index.js file, insert the next code
-```
 
 ```js
 import {} from './node_modules/@mariosenese/ciaomondo/index.js'; 
